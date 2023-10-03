@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/imsuhee.github.io/TIC-TEC-TOC/static/css/main.3262e3be.css",
+    "main.js": "/imsuhee.github.io/TIC-TEC-TOC/static/js/main.240755fd.js",
+    "index.html": "/imsuhee.github.io/TIC-TEC-TOC/index.html",
+    "main.3262e3be.css.map": "/imsuhee.github.io/TIC-TEC-TOC/static/css/main.3262e3be.css.map",
+    "main.240755fd.js.map": "/imsuhee.github.io/TIC-TEC-TOC/static/js/main.240755fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3262e3be.css",
+    "static/js/main.240755fd.js"
+  ]
+}
