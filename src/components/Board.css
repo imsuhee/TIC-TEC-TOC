@@ -1,0 +1,9 @@
+.status {
+  margin-bottom: 10px;
+}
+
+.board-wrapper {
+  border: 1px solid #ACA7CB;
+  border-radius: 1px;
+  overflow: hidden;
+}

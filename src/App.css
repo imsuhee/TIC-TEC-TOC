@@ -1,0 +1,33 @@
+.game {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+
+.game-info {
+  margin-top: 20px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.move-button {
+  width: 200px;
+  height: 50px;
+  background-color: #474554;
+  border-width: 0px;
+  border-radius: 5px;
+  color: #ffffff;
+  margin-bottom: 10px;
+  padding: 10px 20px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.name {
+  color: #fff;
+}
